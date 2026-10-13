@@ -1,0 +1,1 @@
+-r simulador_chapas_2028/requirements.txt

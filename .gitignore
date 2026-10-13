@@ -1,0 +1,20 @@
+# Ambientes e arquivos locais
+.venv/
+venv/
+__pycache__/
+*.py[cod]
+.ruff_cache/
+.pytest_cache/
+.agents/
+.claude/
+.codex/
+.DS_Store
+
+# Credenciais e configurações privadas
+.env
+.env.*
+.streamlit/secrets.toml
+**/.streamlit/secrets.toml
+
+# Saídas geradas
+*.log
